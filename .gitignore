@@ -1,0 +1,4 @@
+
+*.config
+.vs/WebApp/v15/.suo
+*.cache
